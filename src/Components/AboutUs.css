@@ -1,0 +1,34 @@
+.about-us {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 1.5rem;
+  }
+  
+  .about-us-text {
+    width: 50%;
+    padding-right: 2rem;
+  }
+  
+  .about-us-text h2 {
+    font-size: 2rem;
+    font-weight: bold;
+    margin-bottom: 1rem;
+  }
+  
+  .about-us-text p {
+    font-size: 1.2rem;
+    line-height: 1.5;
+    margin-bottom: 1rem;
+  }
+  
+  .about-us-image {
+    width: 45%;
+  }
+  
+  .about-us-image img {
+    width: 100%;
+    height: auto;
+    border-radius: 5px;
+  }
+  
